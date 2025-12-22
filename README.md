@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Wei Jie, an undergraduate in Business Artificial Intelligence Systems from the National University of Singapore! I like experimenting on new stuff :)
+I'm Wei Jie, an undergraduate in Computer Science from the National University of Singapore! I like experimenting on new stuff :)
 
 <h2>Find me on:</h2>
 <p>
