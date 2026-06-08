@@ -1,5 +1,7 @@
 ## 48 65 6C 6C 6F 2C 20 77 6F 72 6C 64 👋
 
+![cute cat goma](https://media.tenor.com/Dr5sZCODJ50AAAAi/mochi-mochi-hello-grey-cat-mochi-mochi.gif)
+
 I'm Wei Jie, an undergraduate in Computer Science from the National University of Singapore! I like experimenting on new stuff :)
 
 <h2>Find me on:</h2>
