@@ -1,4 +1,4 @@
-## Hi there 👋
+## 48 65 6C 6C 6F 2C 20 77 6F 72 6C 64 👋
 
 I'm Wei Jie, an undergraduate in Computer Science from the National University of Singapore! I like experimenting on new stuff :)
 
