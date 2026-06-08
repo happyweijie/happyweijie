@@ -1,4 +1,4 @@
-## 48 65 6C 6C 6F 2C 20 77 6F 72 6C 64 👋
+Oh, hello👋
 
 ![cute cat goma](https://media.tenor.com/Dr5sZCODJ50AAAAi/mochi-mochi-hello-grey-cat-mochi-mochi.gif)
 
