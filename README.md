@@ -1,12 +1,8 @@
 # Oh, hello👋
 
-![cute cat goma](https://media.tenor.com/Dr5sZCODJ50AAAAi/mochi-mochi-hello-grey-cat-mochi-mochi.gif)
+I'm Wei Jie, a Computer Science major rom the National University of Singapore! IMy interests are software engineering, database systems and algorithms.
 
-I'm Wei Jie, an undergraduate in Computer Science from the National University of Singapore! I like experimenting on new stuff :)
-
-<h2>Find me on:</h2>
-<p>
-  <a href="https://www.linkedin.com/in/wei-jie-chew-6173a5235/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+## Find me on:
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:weijie.chew.cs@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wei-jie-chew-6173a5235/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/user5384Et/)
