@@ -1,6 +1,6 @@
 # Oh, hello👋
 
-I'm Wei Jie, a third-yearComputer Science major from NUS! My interests are software engineering, database systems and algorithms. Outside of code, I enjoy running, gym, alt-rock music and watching films.
+I'm Wei Jie, a third-year Computer Science major from NUS! My interests are software engineering, database systems and algorithms. Outside of code, I enjoy running, gym, alt-rock music and watching films.
 
 ## Find me on:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:weijie.chew.cs@gmail.com)
